@@ -2,7 +2,7 @@
 
 Lawnchair is an interesting library for persisting data on client side. There are multiple adapters, each specifying a new way to store data locally on client.
 
-For example PhoneGap-SQLite lets you store data in a limitless SQLite database through PhoneGap bridge.
+For example [PhoneGap-SQLite](https://github.com/davibe/Phonegap-SQLitePlugin) lets you store data in a limitless SQLite database through PhoneGap bridge.
 
 ## About
 
